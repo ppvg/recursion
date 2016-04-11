@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "recursion",
+  "version": "1.0.0",
+  "description": "An example in recursion and TDD",
+  "main": "flatten.js",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Peter-Paul <mail@ppvg.nl>",
+  "license": "ISC"
+}
